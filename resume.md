@@ -4,7 +4,7 @@ Phone: (215)-776-5003
 
 E-Mail: AndrewLakata1@gmail.com
 
-### EXPERIENCE
+## EXPERIENCE
 
 ##### DICE at Jefferson, Philadelphia - Software Developer 
 ###### July  2018 - November 2018
@@ -38,7 +38,7 @@ Technology: Python, InfluxDB, Consul
 
 Technology: Node.js, Backend Java, Blockly, Scala
 
-### EDUCATION
+## EDUCATION
 ##### Drexel University, Philadelphia — Bachelor of Science Computer science
 
 ###### Graduation: September 2016
@@ -51,7 +51,7 @@ Artificial Intelligence, Data Structures and Algorithms
 ##### Central High School (269), Philadelphia — High School Diploma
 ###### Graduation: June 2010
 
-### SKILLS
+## SKILLS
 - Artificial Intelligence 
 - Data Science 
 - Data Structures
@@ -63,10 +63,10 @@ Artificial Intelligence, Data Structures and Algorithms
 - MongoDB
 - AWS
 
-### AWARDS
+## AWARDS
 - Certificate of Completion, MongoDB for Developers, December 2015
 
-### LANGUAGES
+## LANGUAGES
 - Python
 - Backend Java
 - Node.js
@@ -74,7 +74,7 @@ Artificial Intelligence, Data Structures and Algorithms
 - C++
 - Bash
 
-### Activities
+## Activities
 
 ##### Personal Projects
 
