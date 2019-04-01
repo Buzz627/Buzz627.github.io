@@ -86,7 +86,7 @@ Artificial Intelligence, Data Structures and Algorithms
 #####Activity Organizer 
 
 - CodeFest, February 2017,
-- CodeFest, April 2019
+- CodeFest, April 2018
 
 #####Hobbies
 
