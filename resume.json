@@ -1,0 +1,277 @@
+{
+  "basics": {
+    "name": "Andrew \"Buzz\" Lakata",
+    "label": "Programmer",
+    "email": "AndrewLakata1@gmail.com",
+    "phone": "(215) 776-5003",
+    "summary": "A summary of Buzz",
+    "location": {
+      "city": "Philadelphia",
+      "countryCode": "US",
+      "region": "Pennsylvania"
+    },
+    "profiles": [
+      {
+        "network": "StackOverflow",
+        "username": "Buzz",
+        "url": "https://stackoverflow.com/users/3586325/buzz?tab=profile"
+      },
+      {
+        "network": "GitHub",
+        "username": "Buzz627",
+        "url": "https://github.com/Buzz627"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Trilogy Education Services",
+      "website": "https://www.trilogyed.com/",
+      "position": "Teaching Assistant",
+      "startDate": "2019-03-18",
+      "highlights": [
+        "Helping students to understand the basic concepts of coding"
+      ]
+    },
+    {
+      "company": "Philadelphia Rock Gym",
+      "website": "https://www.philarockgym.com/",
+      "position": "Instructor/Coach",
+      "startDate": "2018-06",
+      "highlights": [
+        "Coaching kids on rock climbing technique",
+        "Teaching kids and adults safty procedures and basic climbing skill",
+        "Leading classes on climbing style and technique"
+      ]
+    },
+    {
+      "company": "DICE at Jefferson",
+      "position": "Software Developer",
+      "website": "https://www.dicegrp.org/",
+      "startDate": "2018-07",
+      "endDate": "2018-11",
+      "highlights": [
+        "Created tools to help migrate data for 9000+ websites",
+        "Helped to create Algorithms to search for all doctors within network",
+        "Technology: AEM, Backend Java, Kinvey"
+      ]
+    },
+    {
+      "company": "YellowDig",
+      "position": "Software Developer",
+      "website": "https://www.yellowdig.com/",
+      "startDate": "2017-05",
+      "endDate": "2018-03",
+      "highlights": [
+        "Created tools for students to use for collaboration for class material",
+        "Managed custom command line tools for other developers to use",
+        "Utilized AWS to create, maintain and manage internal data",
+        "Technology: Node.js, AWS, PHP, MySQL"
+      ]
+    },
+    {
+      "company": "Connectify",
+      "position": "Software Engineer",
+      "website": "https://www.connectify.me/",
+      "startDate": "2016-10",
+      "endDate": "2017-03",
+      "highlights": [
+        "Created custom monitoring tools for company servers",
+        "Utilized different technologies to maintain company systems",
+        "Added auto decision making and trend information to server alerts",
+        "Technology: Python, InfluxDB, Consul"
+      ]
+    },
+    {
+      "company": "Point.io",
+      "position": "Software Engineer",
+      "startDate": "2015-03",
+      "endDate": "2016-10",
+      "highlights": [
+        "Created new software for company's main product",
+        "Managed projects to work within other applications",
+        "Created custom tools for users to interact with products",
+        "Technology: Node.js, Backend Java, Blockly, Scala"
+      ],
+      "private": true
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Franklin Institute",
+      "position": "PACTS Robotics Instructor",
+      "website": "http://fi.edu/",
+      "startDate": "2018-11"
+    },
+    {
+      "organization": "Philly Codefest",
+      "position": "Activity Organizer",
+      "website": "http://phillycodefest.com/",
+      "startDate": "2017-02",
+      "endDate": "2017-02"
+    },
+    {
+      "organization": "Philly Codefest",
+      "position": "Activity Organizer",
+      "website": "http://phillycodefest.com/",
+      "startDate": "2018-04",
+      "endDate": "2018-04"
+    }
+  ],
+  "education": [
+    {
+      "summary": "Artificial Intelligence, Data Structures and Algorithms",
+      "institution": "Drexel University",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2013-09",
+      "endDate": "2016-09"
+    },
+    {
+      "institution": "Community College of Philadelphia",
+      "area": "Computer Science",
+      "studyType": "Associate of Science",
+      "startDate": "2010-09",
+      "endDate": "2013-09"
+    },
+    {
+      "institution": "Central High School (269)",
+      "studyType": "High School Diploma",
+      "startDate": "2006-09",
+      "endDate": "2010-06"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Certificate of Completion",
+      "date": "2015-12",
+      "awarder": "MongoDB",
+      "summary": "MongoDB for Developers"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Development",
+      "level": "Advanced",
+      "keywords": [
+        "AWS",
+        "Data Structures",
+        "Algorithms"
+      ]
+    },
+    {
+      "name": "Linux",
+      "level": "Advanced",
+      "keywords":[
+        "Unix", 
+        "Bash",
+        "Scripting",
+        "Git"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Advanced",
+      "keywords": [
+        "Python",
+        "Java",
+        "Node.js",
+        "C++",
+        "Bash"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "Intermediate",
+      "keywords": [
+        "MySQL",
+        "MongoDB",
+        "DynamoDB"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "level": "Beginner",
+      "keywords": [
+        "Machine Learning",
+        "TensorFlow",
+        "Data Science"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native"
+    },
+    {
+      "language": "Python",
+      "fluency": "Master"
+    },
+    {
+      "language": "Java",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Node.js",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "C++",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Rock Climbing",
+      "keywords": [
+        "Climbing",
+        "Bouldering",
+        "Outdoor"
+      ]
+    },
+    {
+      "name": "Cooking",
+      "keywords": [
+
+      ]
+    },
+    {
+      "name": "Raspberry Pi"
+    },
+    {
+      "name": "Video Games",
+      "keywords": [
+        "PS4",
+        "Nintendo Switch"
+      ]
+    },
+    {
+      "name": "Attending Hack-a-Thons",
+      "keywords": [
+        "Hacking",
+        "Hackathon"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "summary": "Regular GitHub user and tinkerer.",
+      "keywords": [
+        "GitHub",
+        "git"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "private": true,
+      "name": "Ron Rock",
+      "reference": "He is a very different type of guy. He is remarkably smart and can pick up any technology at the drop of a hat."
+    },
+    {
+      "private": true,
+      "name": "Ron Rock",
+      "reference": "He gained the respect of everyone in the pit by being one of the hardest working guys on the floor."
+    }
+  ]
+}
