@@ -4,3 +4,8 @@ In my spare time I am also an avid climber. As well as trying to challenge my mi
 
 
 
+I was born and raised in Philadelphia. I love my city and I want to help it how I can. We have a lot go good schools here but most people end up leaving to go to other places for work after school. I want to stay in Philly to try to row the tech scene here. 
+
+Programming has always been a passion of mine. I love trying to figure out how to make things work. I like to do a lot of work with back end systems and algorithms. I've started a few different projects on GitHub to try to learn new stuff. I love the data and logic side of programming. I usually try to shy away from the design and front end side of programming. i always struggle with HTML and CSS. go ahead inspect this page. You'll probably see that it is all really basic HTML with no CSS. 
+
+I have always loved to learn and try new things. I am currently learning a lot about robotics with RaspberryPi. I have learned a lot in the past year about rock climbing. I want to learn how to ride a motorcycle and maybe fly a plane. I want to learn how to fix a car engine. And I can't count how many times I fell down a Wikipedia rabbit hole. 
