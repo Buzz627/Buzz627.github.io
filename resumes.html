@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Buzz Lakata</title>
+		<link href="http://fonts.googleapis.com/css?family=Arvo:400,700" rel="stylesheet" type="text/css" />
+		<!-- <link href="default.css" rel="stylesheet" type="text/css" media="all" /> -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+		<!-- <link rel="stylesheet" type="text/css" href="http://getbootstrap.com/examples/sticky-footer/sticky-footer.css"> -->
+
+		<!-- <script async defer src="https://buttons.github.io/buttons.js"></script> -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script type="https://cors-anywhere.herokuapp.com/"></script>
+		
+		<style>
+			body {
+				background: #D6D6D6 url(assets/images/body-bg.png);
+
+			}
+		</style>
+	</head>
+
+
+	<body>
+		<main id="wrapper">
+			<div id="wrapper-bgtop" class="container">
+				<div id="header-wrapper">
+					<nav id="header" class="navbar navbar-expand-lg navbar-right" style="background: #e3f2fd;">
+						<!-- <a class="navbar-brand" href="#">Navbar</a> -->
+						<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+							<div id="menu" class="navbar-nav">
+								<a href="index.html" class="nav-item nav-link active">Home</a>
+								<a href="about.html" class="nav-item nav-link">About</a>
+								<a href="resumes/resume.pdf" class="nav-item nav-link">Resume</a>
+								<a href="contact.html" class="nav-item nav-link">Contact</a>
+							</div>
+						</div>
+					</nav>
+				</div>
+				<div id="page" class="container">
+					<div id="content" class="row">
+						<div id="sidebar" class="col-md-4">
+							<div class="sidebar-box">
+								<!-- <h2>Maecenas luctus lectus</h2>        style="max-width:100%; max-height:100%;"-->
+								<img class="img-fluid rounded" src="assets/images/3CRVr.jpg" style="margin:10px" alt="" />
+								<!-- <button type="button" class="btn btn-secondary">Secondary</button> -->
+							</div>
+							<a href="https://github.com/buzz627" target="_blank" class="btn btn-secondary" role="button" style="margin:10px"><i class="fab fa-github"></i> GitHub</a>
+							<a href="https://stackoverflow.com/users/3586325/buzz" target="_blank" class="btn btn-secondary" role="button" style="margin:10px"><i class="fab fa-stack-overflow"></i> StackOverflow</a>
+						</div>
+						<div class="col-md-8" >
+							<!-- <object type="text/html" data="foo.html"></object> -->
+							<div id="includedContent">
+								
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</main>
+	</body>
+	<script type="text/javascript">
+		file="http://localhost:8080/tree.html"
+		// xhttp = new XMLHttpRequest();
+		// xhttp.open("GET", file, true);
+		// xhttp.send();
+		$("#includedContent").load(file, "body");
+		console.log($("#includedContent"))
+	</script>
+</html>
