@@ -92,8 +92,7 @@
         "Managed projects to work within other applications",
         "Created custom tools for users to interact with products",
         "Technology: Node.js, Backend Java, Blockly, Scala"
-      ],
-      "private": true
+      ]
     }
   ],
   "volunteer": [
@@ -272,6 +271,11 @@
       "private": true,
       "name": "Ron Rock",
       "reference": "He gained the respect of everyone in the pit by being one of the hardest working guys on the floor."
+    },
+    {
+      "private": true,
+      "name": "Ismail Amzovski",
+      "reference": "I would rather have a team of Buzz's than a whole company of brown nosers."
     }
   ]
 }
