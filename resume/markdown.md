@@ -4,7 +4,7 @@ Email: AndrewLakata1@gmail.com
 Tel: (215) 776-5003
 
 
-A summary of Buzz
+I am a backend developer. I love working with data and apis. No matter what the project is I am always happy to get down and dirty with the code.
 
 ## SKILLS
 
@@ -19,7 +19,8 @@ A summary of Buzz
 ### *Teaching Assistant*, [Trilogy Education Services](https://www.trilogyed.com/) (2019-03 — Present)
 
 
-  - Helping students to understand the basic concepts of coding
+  - Helping students learn the basics of coding and logic
+  - Guiding students with coding projects and understanding concepts
 
 ### *Instructor/Coach*, [Philadelphia Rock Gym](https://www.philarockgym.com/) (2018-06 — Present)
 
@@ -30,7 +31,7 @@ A summary of Buzz
 
 ### *Software Developer*, [DICE at Jefferson](https://www.dicegrp.org/) (2018-07 — 2018-11)
 
-
+Technology: AEM, Backend Java, Kinvey
   - Created tools to help migrate data for 9000+ websites
   - Helped to create Algorithms to search for all doctors within network
   - Technology: AEM, Backend Java, Kinvey

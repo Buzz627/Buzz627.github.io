@@ -4,7 +4,7 @@
     "label": "Programmer",
     "email": "AndrewLakata1@gmail.com",
     "phone": "(215) 776-5003",
-    "summary": "A summary of Buzz",
+    "summary": "I am a backend developer. I love working with data and apis. No matter what the project is I am always happy to get down and dirty with the code.",
     "location": {
       "city": "Philadelphia",
       "countryCode": "US",
@@ -14,7 +14,7 @@
       {
         "network": "StackOverflow",
         "username": "Buzz",
-        "url": "https://stackoverflow.com/users/3586325/buzz?tab=profile"
+        "url": "https://stackoverflow.com/users/3586325/buzz"
       },
       {
         "network": "GitHub",
@@ -30,7 +30,8 @@
       "position": "Teaching Assistant",
       "startDate": "2019-03-18",
       "highlights": [
-        "Helping students to understand the basic concepts of coding"
+        "Helping students learn the basics of coding and logic",
+        "Guiding students with coding projects and understanding concepts"
       ]
     },
     {
@@ -53,8 +54,9 @@
       "highlights": [
         "Created tools to help migrate data for 9000+ websites",
         "Helped to create Algorithms to search for all doctors within network",
-        "Technology: AEM, Backend Java, Kinvey"
-      ]
+        "Technology Used: AEM, Backend Java, Kinvey"
+      ],
+      "keywords": ["AEM", "Backend Java", "Kinvey"]
     },
     {
       "company": "YellowDig",
@@ -66,7 +68,7 @@
         "Created tools for students to use for collaboration for class material",
         "Managed custom command line tools for other developers to use",
         "Utilized AWS to create, maintain and manage internal data",
-        "Technology: Node.js, AWS, PHP, MySQL"
+        "Technology Used: Node.js, AWS, PHP, MySQL"
       ]
     },
     {
@@ -79,7 +81,7 @@
         "Created custom monitoring tools for company servers",
         "Utilized different technologies to maintain company systems",
         "Added auto decision making and trend information to server alerts",
-        "Technology: Python, InfluxDB, Consul"
+        "Technology Used: Python, InfluxDB, Consul"
       ]
     },
     {
@@ -91,8 +93,9 @@
         "Created new software for company's main product",
         "Managed projects to work within other applications",
         "Created custom tools for users to interact with products",
-        "Technology: Node.js, Backend Java, Blockly, Scala"
-      ]
+        "Technology Used: Node.js, Backend Java, Blockly, Scala"
+      ],
+      "private": true
     }
   ],
   "volunteer": [
