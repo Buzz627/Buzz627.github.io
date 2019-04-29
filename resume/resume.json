@@ -5,6 +5,7 @@
     "email": "AndrewLakata1@gmail.com",
     "phone": "(215) 776-5003",
     "summary": "I am a backend developer. I love working with data and apis. No matter what the project is I am always happy to get down and dirty with the code.",
+    "picture": "../../assets/images/3CRVr.jpg",
     "location": {
       "city": "Philadelphia",
       "countryCode": "US",
@@ -94,8 +95,7 @@
         "Managed projects to work within other applications",
         "Created custom tools for users to interact with products",
         "Technology Used: Node.js, Backend Java, Blockly, Scala"
-      ],
-      "private": true
+      ]
     }
   ],
   "volunteer": [
@@ -109,15 +109,15 @@
       "organization": "Philly Codefest",
       "position": "Activity Organizer",
       "website": "http://phillycodefest.com/",
-      "startDate": "2017-02",
-      "endDate": "2017-02"
+      "startDate": "2017-02-18",
+      "endDate": "2017-02-19"
     },
     {
       "organization": "Philly Codefest",
       "position": "Activity Organizer",
       "website": "http://phillycodefest.com/",
-      "startDate": "2018-04",
-      "endDate": "2018-04"
+      "startDate": "2018-04-21",
+      "endDate": "2018-04-22"
     }
   ],
   "education": [
@@ -239,7 +239,12 @@
       ]
     },
     {
-      "name": "Raspberry Pi"
+      "name": "Raspberry Pi",
+      "keywords": [
+        "Hardware",
+        "Hacking",
+        "Linux"
+      ]
     },
     {
       "name": "Video Games",
@@ -263,22 +268,6 @@
         "git"
       ]
     }
-  ],
-  "references": [
-    {
-      "private": true,
-      "name": "Ron Rock",
-      "reference": "He is a very different type of guy. He is remarkably smart and can pick up any technology at the drop of a hat."
-    },
-    {
-      "private": true,
-      "name": "Ron Rock",
-      "reference": "He gained the respect of everyone in the pit by being one of the hardest working guys on the floor."
-    },
-    {
-      "private": true,
-      "name": "Ismail Amzovski",
-      "reference": "I would rather have a team of Buzz's than a whole company of brown nosers."
-    }
   ]
+  
 }
