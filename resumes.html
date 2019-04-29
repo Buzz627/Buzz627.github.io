@@ -4,20 +4,24 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<title>Buzz Lakata</title>
+		<link href="http://fonts.googleapis.com/css?family=Arvo:400,700" rel="stylesheet" type="text/css" />
 		<!-- <link href="default.css" rel="stylesheet" type="text/css" media="all" /> -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
-		<link rel="stylesheet" type="text/css" href="http://getbootstrap.com/examples/sticky-footer/sticky-footer.css">
-		<link href="https://fonts.googleapis.com/css?family=Ubuntu|Ubuntu+Mono" rel="stylesheet">
+		<!-- <link rel="stylesheet" type="text/css" href="http://getbootstrap.com/examples/sticky-footer/sticky-footer.css"> -->
+
 		<!-- <script async defer src="https://buttons.github.io/buttons.js"></script> -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script type="https://cors-anywhere.herokuapp.com/"></script>
+		
 		<style>
-		body {
-			background: #D6D6D6 url(assets/images/body-bg.png);
-			font-family: Ubuntu;
-		}
+			body {
+				background: #D6D6D6 url(assets/images/body-bg.png);
+
+			}
 		</style>
 	</head>
+
 
 	<body>
 		<main id="wrapper">
@@ -47,68 +51,37 @@
 							<a href="https://stackoverflow.com/users/3586325/buzz" target="_blank" class="btn btn-secondary" role="button" style="margin:10px"><i class="fab fa-stack-overflow"></i> StackOverflow</a>
 						</div>
 						<div class="col-md-8" >
-							<p>Send me a message:</p>
-							<form action="mailto:Buzz627@gmail.com" method="post" enctype="text/plain">
-								<table BORDER="0" CELLSPACING="0" CELLPADDING="4" WIDTH="90%">
-									<tr>
-										<td width="30%">
-											<div align="right">
-												<b>Name:</b>
-											</div>
-										</td>
-										<td width="70%">
-											<input type="text" name="name" size="20">
-										</td>
-									</tr>
-									<tr>
-										<td>
-											<div align="right"><b>Email:</b></div>
-										</td>
-										<td>
-											<input type="text" name="email" size="20">
-										</td>
-									</tr>
-									<tr>
-										<td>
-											<div align="right">
-												<b>Comment:</b>
-											</div>
-										</td>
-										<td>
-											<textarea name="comment" cols="30" wrap="virtual" rows="4">
-											</textarea>
-										</td>
-									</tr>
-									<tr>
-										<td>&nbsp;</td>
-										<td>
-											<input type="submit" name="submit" value="Submit">
-											<input type="reset" name="reset" value="Reset">
-										</td>
-									</tr>
-								</table>
-							</form>
-							<p>Not working? 
-								<div>
-									Send an E-Mail to:
-								</div>
-								<div style="font-family: Ubuntu Mono;">
-									Buzz627@gmail.com
-								</div>
-								-or- 
-								<div style="font-family: Ubuntu Mono;">
-									AndrewLakata1@gmail.com
-								</div>
-							</p>
-							<img src="https://imgs.xkcd.com/comics/email.png">
+							<!-- <object type="text/html" data="foo.html"></object> -->
+							<div id="includedContent">
+								<h1>My Resume</h1><p>
+									I Have almost every format you could possibley want of my resume. Most of these have been genereted with <a href="https://github.com/hacksalot/HackMyResume">HackMyResume</a>.
+								</p>
+								<p>			
+									├── <a href="resume/handMadeResume.pdf">handMadeResume.pdf</a><br>
+									├── <a href="resume/myResume.doc">myResume.doc</a><br>
+									├── <a href="resume/myResume.html">myResume.html</a><br>
+									├── <a href="resume/myResume.md">myResume.md</a><br>
+									├── <a href="resume/myResume.pdf">myResume.pdf</a><br>
+									├── <a href="resume/myResume.pdf.html">myResume.pdf.html</a><br>
+									├── <a href="resume/myResume.txt">myResume.txt</a><br>
+									├── <a href="resume/myResume.yml">myResume.yml</a><br>
+									├── <a href="resume/onePageResume.pdf">onePageResume.pdf</a><br>
+									├── <a href="resume/onePageResume.pdf.html">onePageResume.pdf.html</a><br>
+									└── <a href="resume/resume.json">resume.json</a><br>
+								</p>
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</main>
 	</body>
-
+	<script type="text/javascript">
+		file="http://localhost:8080/tree.html"
+		// xhttp = new XMLHttpRequest();
+		// xhttp.open("GET", file, true);
+		// xhttp.send();
+		$("#includedContent").load(file, "body");
+		console.log($("#includedContent"))
+	</script>
 </html>
-
-
-

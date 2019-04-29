@@ -1,0 +1,30 @@
+{
+  "name": "Buzz627.github.io",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/Buzz627/Buzz627.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "index.js",
+  "dependencies": {
+    "jsonresume-theme-eloquent": "^4.1.0",
+    "jsonresume-theme-onepage": "0.0.3",
+    "jsonresume-theme-onepage-mrseanryan": "0.0.19",
+    "jsonresume-theme-onepage-nderkach": "0.0.8",
+    "jsonresume-theme-onepage-wide": "0.0.1",
+    "jsonresume-theme-spartan": "^0.2.1",
+    "jsonresume-theme-stackoverflow2": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Buzz627/Buzz627.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Buzz627/Buzz627.github.io/issues"
+  },
+  "homepage": "https://github.com/Buzz627/Buzz627.github.io#readme"
+}

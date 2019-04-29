@@ -1,0 +1,233 @@
+name: 'Andrew "Buzz" Lakata'
+info:
+  label: Programmer
+  image: ../assets/images/3CRVr.jpg
+  brief: 'I am a backend developer. I love working with data and apis. No matter what the project is I am always happy to get down and dirty with the code.'
+contact:
+  email: AndrewLakata1@gmail.com
+  phone: '(215) 776-5003'
+meta:
+  format: FRESH@^1.0.0-beta
+  modified: '2019-04-29T17:26:11.092Z'
+location:
+  city: Philadelphia
+  region: Pennsylvania
+  country: US
+employment:
+  history:
+    -
+      position: 'Teaching Assistant'
+      employer: 'Trilogy Education Services'
+      current: true
+      start: '2019-03-18'
+      url: 'https://www.trilogyed.com/'
+      keywords: []
+      highlights:
+        - 'Helping students learn the basics of coding and logic'
+        - 'Guiding students with coding projects and understanding concepts'
+    -
+      position: Instructor/Coach
+      employer: 'Philadelphia Rock Gym'
+      current: true
+      start: 2018-06
+      url: 'https://www.philarockgym.com/'
+      keywords: []
+      highlights:
+        - 'Coaching kids on rock climbing technique'
+        - 'Teaching kids and adults safty procedures and basic climbing skill'
+        - 'Leading classes on climbing style and technique'
+    -
+      position: 'Software Developer'
+      employer: 'DICE at Jefferson'
+      start: 2018-07
+      end: 2018-11
+      url: 'https://www.dicegrp.org/'
+      keywords: []
+      highlights:
+        - 'Created tools to help migrate data for 9000+ websites'
+        - 'Helped to create Algorithms to search for all doctors within network'
+        - 'Technology Used: AEM, Backend Java, Kinvey'
+    -
+      position: 'Software Developer'
+      employer: YellowDig
+      start: 2017-05
+      end: 2018-03
+      url: 'https://www.yellowdig.com/'
+      keywords: []
+      highlights:
+        - 'Created tools for students to use for collaboration for class material'
+        - 'Managed custom command line tools for other developers to use'
+        - 'Utilized AWS to create, maintain and manage internal data'
+        - 'Technology Used: Node.js, AWS, PHP, MySQL'
+    -
+      position: 'Software Engineer'
+      employer: Connectify
+      start: 2016-10
+      end: 2017-03
+      url: 'https://www.connectify.me/'
+      keywords: []
+      highlights:
+        - 'Created custom monitoring tools for company servers'
+        - 'Utilized different technologies to maintain company systems'
+        - 'Added auto decision making and trend information to server alerts'
+        - 'Technology Used: Python, InfluxDB, Consul'
+    -
+      position: 'Software Engineer'
+      employer: Point.io
+      start: 2015-03
+      end: 2016-10
+      keywords: []
+      highlights:
+        - 'Created new software for company''s main product'
+        - 'Managed projects to work within other applications'
+        - 'Created custom tools for users to interact with products'
+        - 'Technology Used: Node.js, Backend Java, Blockly, Scala'
+education:
+  level: ""
+  history:
+    -
+      institution: 'Drexel University'
+      start: 2013-09
+      end: 2016-09
+      summary: 'Artificial Intelligence, Data Structures and Algorithms'
+      area: 'Computer Science'
+      studyType: 'Bachelor of Science'
+    -
+      institution: 'Community College of Philadelphia'
+      start: 2010-09
+      end: 2013-09
+      summary: ""
+      area: 'Computer Science'
+      studyType: 'Associate of Science'
+    -
+      institution: 'Central High School (269)'
+      start: 2006-09
+      end: 2010-06
+      summary: ""
+      studyType: 'High School Diploma'
+service:
+  history:
+    -
+      type: volunteer
+      position: 'PACTS Robotics Instructor'
+      organization: 'Franklin Institute'
+      start: 2018-11
+      url: 'http://fi.edu/'
+    -
+      type: volunteer
+      position: 'Activity Organizer'
+      organization: 'Philly Codefest'
+      start: '2017-02-18'
+      end: '2017-02-19'
+      url: 'http://phillycodefest.com/'
+    -
+      type: volunteer
+      position: 'Activity Organizer'
+      organization: 'Philly Codefest'
+      start: '2018-04-21'
+      end: '2018-04-22'
+      url: 'http://phillycodefest.com/'
+skills:
+  sets:
+    -
+      name: 'Software Development'
+      level: Advanced
+      skills:
+        - AWS
+        - 'Data Structures'
+        - Algorithms
+    -
+      name: Linux
+      level: Advanced
+      skills:
+        - Unix
+        - Bash
+        - Scripting
+        - Git
+    -
+      name: 'Programming Languages'
+      level: Advanced
+      skills:
+        - Python
+        - Java
+        - Node.js
+        - C++
+        - Bash
+    -
+      name: Database
+      level: Intermediate
+      skills:
+        - MySQL
+        - MongoDB
+        - DynamoDB
+    -
+      name: 'Artificial Intelligence'
+      level: Beginner
+      skills:
+        - 'Machine Learning'
+        - TensorFlow
+        - 'Data Science'
+recognition:
+  -
+    title: 'Certificate of Completion'
+    date: 2015-12
+    from: MongoDB
+    summary: 'MongoDB for Developers'
+social:
+  -
+    label: StackOverflow
+    network: StackOverflow
+    url: 'https://stackoverflow.com/users/3586325/buzz'
+    user: Buzz
+  -
+    label: GitHub
+    network: GitHub
+    url: 'https://github.com/Buzz627'
+    user: Buzz627
+interests:
+  -
+    name: 'Rock Climbing'
+    keywords:
+      - Climbing
+      - Bouldering
+      - Outdoor
+  -
+    name: Cooking
+    keywords: []
+  -
+    name: 'Raspberry Pi'
+    keywords:
+      - Hardware
+      - Hacking
+      - Linux
+  -
+    name: 'Video Games'
+    keywords:
+      - PS4
+      - 'Nintendo Switch'
+  -
+    name: 'Attending Hack-a-Thons'
+    keywords:
+      - Hacking
+      - Hackathon
+  -
+    name: GitHub
+    keywords:
+      - GitHub
+      - git
+languages:
+  -
+    language: English
+    fluency: Native
+  -
+    language: Python
+    fluency: Master
+  -
+    language: Java
+    fluency: Advanced
+  -
+    language: Node.js
+    fluency: Advanced
+  -
+    language: C++
+    fluency: Intermediate
