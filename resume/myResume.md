@@ -31,10 +31,10 @@ I am a backend developer. I love working with data and apis. No matter what the 
 
 ### *Software Developer*, [DICE at Jefferson](https://www.dicegrp.org/) (2018-07 — 2018-11)
 
-Technology: AEM, Backend Java, Kinvey
+
   - Created tools to help migrate data for 9000+ websites
   - Helped to create Algorithms to search for all doctors within network
-  - Technology: AEM, Backend Java, Kinvey
+  - Technology Used: AEM, Backend Java, Kinvey
 
 ### *Software Developer*, [YellowDig](https://www.yellowdig.com/) (2017-05 — 2018-03)
 
@@ -42,7 +42,7 @@ Technology: AEM, Backend Java, Kinvey
   - Created tools for students to use for collaboration for class material
   - Managed custom command line tools for other developers to use
   - Utilized AWS to create, maintain and manage internal data
-  - Technology: Node.js, AWS, PHP, MySQL
+  - Technology Used: Node.js, AWS, PHP, MySQL
 
 ### *Software Engineer*, [Connectify](https://www.connectify.me/) (2016-10 — 2017-03)
 
@@ -50,7 +50,7 @@ Technology: AEM, Backend Java, Kinvey
   - Created custom monitoring tools for company servers
   - Utilized different technologies to maintain company systems
   - Added auto decision making and trend information to server alerts
-  - Technology: Python, InfluxDB, Consul
+  - Technology Used: Python, InfluxDB, Consul
 
 ### *Software Engineer*, Point.io (2015-03 — 2016-10)
 
@@ -58,7 +58,7 @@ Technology: AEM, Backend Java, Kinvey
   - Created new software for company's main product
   - Managed projects to work within other applications
   - Created custom tools for users to interact with products
-  - Technology: Node.js, Backend Java, Blockly, Scala
+  - Technology Used: Node.js, Backend Java, Blockly, Scala
 
 
 
@@ -113,13 +113,12 @@ MongoDB for Developers
 
 - COOKING
 
-- RASPBERRY PI
+- RASPBERRY PI: Hardware Hacking Linux 
 
 - VIDEO GAMES: PS4 Nintendo Switch 
 
 - ATTENDING HACK-A-THONS: Hacking Hackathon 
 
 - GITHUB: GitHub git 
-Regular GitHub user and tinkerer.
 
 
