@@ -10,7 +10,7 @@ resume={}
 with open("resume/resume.json", "r") as f:
 	resume=json.load(f)
 
-print resume.keys()
+print(resume.keys())
 
 app = Flask(__name__)
 auto = Autodoc(app)
@@ -58,7 +58,6 @@ def getHistoryYear(num = 0):
 @auto.doc()
 def getItem(item):
 	"""Get a specific <item> from resume. (['interests', 'basics', 'skills', 'work', 'languages', 'awards', 'education', 'volunteer']"""
-	print item
 	return jsonify(resume[item])
 
 
