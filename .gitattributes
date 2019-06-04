@@ -1,1 +1,2 @@
-resume/* linguist-detectable=true
+resume/* linguist-detectable=false
+resume/*.json linguist-detectable=true
