@@ -512,13 +512,13 @@
           </w:rPr>
           <w:t>(215) 776-5003<w:br/></w:t>
         </w:r>
-        <w:hlink w:dest="">
+        <w:hlink w:dest="http://Buzz627.github.io">
           <w:r wsp:rsidRPr="003876BF">
             <w:rPr>
               <w:rStyle w:val="Hyperlink"/>
               <w:sz w:val="16"/>
             </w:rPr>
-            <w:t></w:t>
+            <w:t>http://Buzz627.github.io</w:t>
           </w:r>
         </w:hlink>
       </w:p>
