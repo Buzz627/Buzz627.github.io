@@ -2,9 +2,10 @@
   "basics": {
     "name": "Andrew \"Buzz\" Lakata",
     "label": "Programmer",
-    "email": "AndrewLakata1@gmail.com",
-    "phone": "(215) 776-5003",
     "summary": "I am a backend developer. I love working with data and apis. No matter what the project is I am always happy to get down and dirty with the code.",
+    "website": "http://Buzz627.github.io",
+    "phone": "(215) 776-5003",
+    "email": "AndrewLakata1@gmail.com",
     "picture": "../assets/images/3CRVr.jpg",
     "location": {
       "city": "Philadelphia",
