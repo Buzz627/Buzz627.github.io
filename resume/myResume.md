@@ -16,18 +16,11 @@ I am a backend developer. I love working with data and apis. No matter what the 
 
 ## EMPLOYMENT
 
-### *Teaching Assistant*, [Trilogy Education Services](https://www.trilogyed.com/) (2019-03 — Present)
+### *Teaching Assistant*, [Trilogy Education Services](https://www.trilogyed.com/) (2019-03 — 2019-06)
 
 
   - Helping students learn the basics of coding and logic
   - Guiding students with coding projects and understanding concepts
-
-### *Instructor/Coach*, [Philadelphia Rock Gym](https://www.philarockgym.com/) (2018-06 — Present)
-
-
-  - Coaching kids on rock climbing technique
-  - Teaching kids and adults safty procedures and basic climbing skill
-  - Leading classes on climbing style and technique
 
 ### *Software Developer*, [DICE at Jefferson](https://www.dicegrp.org/) (2018-07 — 2018-11)
 
@@ -88,6 +81,13 @@ Artificial Intelligence, Data Structures and Algorithms
 ### *PACTS Robotics Instructor*, [Franklin Institute](http://fi.edu/) (2018-11 — Present)
 
 
+
+### *Instructor/Coach*, [Philadelphia Rock Gym](https://www.philarockgym.com/) (2018-06 — Present)
+
+
+  - Coaching kids on rock climbing technique
+  - Teaching kids and adults safty procedures and basic climbing skill
+  - Leading classes on climbing style and technique
 
 ### *Activity Organizer*, [Philly Codefest](http://phillycodefest.com/) (2017-02)
 

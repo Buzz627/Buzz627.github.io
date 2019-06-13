@@ -8,7 +8,7 @@ contact:
   phone: '(215) 776-5003'
 meta:
   format: FRESH@^1.0.0-beta
-  modified: '2019-04-29T17:26:11.092Z'
+  modified: '2019-06-13T14:54:28.460Z'
 location:
   city: Philadelphia
   region: Pennsylvania
@@ -18,24 +18,13 @@ employment:
     -
       position: 'Teaching Assistant'
       employer: 'Trilogy Education Services'
-      current: true
       start: '2019-03-18'
+      end: '2019-06-10'
       url: 'https://www.trilogyed.com/'
       keywords: []
       highlights:
         - 'Helping students learn the basics of coding and logic'
         - 'Guiding students with coding projects and understanding concepts'
-    -
-      position: Instructor/Coach
-      employer: 'Philadelphia Rock Gym'
-      current: true
-      start: 2018-06
-      url: 'https://www.philarockgym.com/'
-      keywords: []
-      highlights:
-        - 'Coaching kids on rock climbing technique'
-        - 'Teaching kids and adults safty procedures and basic climbing skill'
-        - 'Leading classes on climbing style and technique'
     -
       position: 'Software Developer'
       employer: 'DICE at Jefferson'
@@ -113,6 +102,16 @@ service:
       organization: 'Franklin Institute'
       start: 2018-11
       url: 'http://fi.edu/'
+    -
+      type: volunteer
+      position: Instructor/Coach
+      organization: 'Philadelphia Rock Gym'
+      start: 2018-06
+      url: 'https://www.philarockgym.com/'
+      highlights:
+        - 'Coaching kids on rock climbing technique'
+        - 'Teaching kids and adults safty procedures and basic climbing skill'
+        - 'Leading classes on climbing style and technique'
     -
       type: volunteer
       position: 'Activity Organizer'

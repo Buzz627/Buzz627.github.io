@@ -19,16 +19,10 @@ SKILLS -------------------------------------------------------------------------
 
 EMPLOYMENT ---------------------------------------------------------------------
 
-Teaching Assistant, Trilogy Education Services (2019-03 — Present)
+Teaching Assistant, Trilogy Education Services (2019-03 — 2019-06)
 
 - Helping students learn the basics of coding and logic
 - Guiding students with coding projects and understanding concepts
-
-Instructor/Coach, Philadelphia Rock Gym (2018-06 — Present)
-
-- Coaching kids on rock climbing technique
-- Teaching kids and adults safty procedures and basic climbing skill
-- Leading classes on climbing style and technique
 
 Software Developer, DICE at Jefferson (2018-07 — 2018-11)
 
@@ -78,6 +72,12 @@ SERVICE ------------------------------------------------------------------------
 
 Franklin Institute (2018-11 — Present)
 
+
+Philadelphia Rock Gym (2018-06 — Present)
+
+- Coaching kids on rock climbing technique
+- Teaching kids and adults safty procedures and basic climbing skill
+- Leading classes on climbing style and technique
 
 Philly Codefest (2017-02)
 

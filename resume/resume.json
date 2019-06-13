@@ -30,20 +30,10 @@
       "website": "https://www.trilogyed.com/",
       "position": "Teaching Assistant",
       "startDate": "2019-03-18",
+      "endDate": "2019-06-10",
       "highlights": [
         "Helping students learn the basics of coding and logic",
         "Guiding students with coding projects and understanding concepts"
-      ]
-    },
-    {
-      "company": "Philadelphia Rock Gym",
-      "website": "https://www.philarockgym.com/",
-      "position": "Instructor/Coach",
-      "startDate": "2018-06",
-      "highlights": [
-        "Coaching kids on rock climbing technique",
-        "Teaching kids and adults safty procedures and basic climbing skill",
-        "Leading classes on climbing style and technique"
       ]
     },
     {
@@ -100,10 +90,22 @@
   ],
   "volunteer": [
     {
+      "flavor": "volunteer",
       "organization": "Franklin Institute",
       "position": "PACTS Robotics Instructor",
       "website": "http://fi.edu/",
       "startDate": "2018-11"
+    },
+    {
+      "organization": "Philadelphia Rock Gym",
+      "website": "https://www.philarockgym.com/",
+      "position": "Instructor/Coach",
+      "startDate": "2018-06",
+      "highlights": [
+        "Coaching kids on rock climbing technique",
+        "Teaching kids and adults safty procedures and basic climbing skill",
+        "Leading classes on climbing style and technique"
+      ]
     },
     {
       "organization": "Philly Codefest",
