@@ -81,12 +81,15 @@ Artificial Intelligence, Data Structures and Algorithms
 ### *PACTS Robotics Instructor*, [Franklin Institute](http://fi.edu/) (2018-11 — Present)
 
 
+  - Teaching students how to code using Raspberry Pi and and Arduino
+  - Guiding student Battlebot team
+  - Helping students to solder and create circuits
 
 ### *Instructor/Coach*, [Philadelphia Rock Gym](https://www.philarockgym.com/) (2018-06 — Present)
 
 
   - Coaching kids on rock climbing technique
-  - Teaching kids and adults safty procedures and basic climbing skill
+  - Teaching kids and adults safety procedures and basic climbing skill
   - Leading classes on climbing style and technique
 
 ### *Activity Organizer*, [Philly Codefest](http://phillycodefest.com/) (2017-02)

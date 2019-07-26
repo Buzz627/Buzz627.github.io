@@ -9,7 +9,7 @@ contact:
   website: 'http://Buzz627.github.io'
 meta:
   format: FRESH@^1.0.0-beta
-  modified: '2019-07-24T17:22:42.240Z'
+  modified: '2019-07-26T15:22:07.858Z'
 location:
   city: Philadelphia
   region: Pennsylvania
@@ -103,6 +103,10 @@ service:
       organization: 'Franklin Institute'
       start: 2018-11
       url: 'http://fi.edu/'
+      highlights:
+        - 'Teaching students how to code using Raspberry Pi and and Arduino'
+        - 'Guiding student Battlebot team'
+        - 'Helping students to solder and create circuits'
     -
       type: volunteer
       position: Instructor/Coach
@@ -111,7 +115,7 @@ service:
       url: 'https://www.philarockgym.com/'
       highlights:
         - 'Coaching kids on rock climbing technique'
-        - 'Teaching kids and adults safty procedures and basic climbing skill'
+        - 'Teaching kids and adults safety procedures and basic climbing skill'
         - 'Leading classes on climbing style and technique'
     -
       type: volunteer

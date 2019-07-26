@@ -72,11 +72,14 @@ SERVICE ------------------------------------------------------------------------
 
 Franklin Institute (2018-11 — Present)
 
+- Teaching students how to code using Raspberry Pi and and Arduino
+- Guiding student Battlebot team
+- Helping students to solder and create circuits
 
 Philadelphia Rock Gym (2018-06 — Present)
 
 - Coaching kids on rock climbing technique
-- Teaching kids and adults safty procedures and basic climbing skill
+- Teaching kids and adults safety procedures and basic climbing skill
 - Leading classes on climbing style and technique
 
 Philly Codefest (2017-02)

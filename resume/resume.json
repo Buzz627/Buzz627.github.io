@@ -95,7 +95,12 @@
       "organization": "Franklin Institute",
       "position": "PACTS Robotics Instructor",
       "website": "http://fi.edu/",
-      "startDate": "2018-11"
+      "startDate": "2018-11",
+      "highlights":[
+        "Teaching students how to code using Raspberry Pi and and Arduino",
+        "Guiding student Battlebot team",
+        "Helping students to solder and create circuits"
+      ]
     },
     {
       "organization": "Philadelphia Rock Gym",
@@ -104,7 +109,7 @@
       "startDate": "2018-06",
       "highlights": [
         "Coaching kids on rock climbing technique",
-        "Teaching kids and adults safty procedures and basic climbing skill",
+        "Teaching kids and adults safety procedures and basic climbing skill",
         "Leading classes on climbing style and technique"
       ]
     },
