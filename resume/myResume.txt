@@ -19,6 +19,12 @@ SKILLS -------------------------------------------------------------------------
 
 EMPLOYMENT ---------------------------------------------------------------------
 
+PACTS Robotics Instructor,  (2018-11 — Present)
+
+- Teaching students basics of coding, engineering and problem solving.
+- Guiding student Battlebot team
+- Organizing different student projects including raspberry pi, arduino, soldering and circuit design.
+
 Teaching Assistant, Trilogy Education Services (2019-03 — 2019-06)
 
 - Helping students learn the basics of coding and logic
@@ -69,12 +75,6 @@ Central High School (269) (2006-09 — 2010-06)
 
 
 SERVICE ------------------------------------------------------------------------
-
-Franklin Institute (2018-11 — Present)
-
-- Teaching students how to code using Raspberry Pi and and Arduino
-- Guiding student Battlebot team
-- Helping students to solder and create circuits
 
 Philadelphia Rock Gym (2018-06 — Present)
 

@@ -16,6 +16,13 @@ I am a backend developer. I love working with data and apis. No matter what the 
 
 ## EMPLOYMENT
 
+### *PACTS Robotics Instructor*, [](http://fi.edu/) (2018-11 — Present)
+
+
+  - Teaching students basics of coding, engineering and problem solving.
+  - Guiding student Battlebot team
+  - Organizing different student projects including raspberry pi, arduino, soldering and circuit design.
+
 ### *Teaching Assistant*, [Trilogy Education Services](https://www.trilogyed.com/) (2019-03 — 2019-06)
 
 
@@ -77,13 +84,6 @@ Artificial Intelligence, Data Structures and Algorithms
 
 
 ## SERVICE
-
-### *PACTS Robotics Instructor*, [Franklin Institute](http://fi.edu/) (2018-11 — Present)
-
-
-  - Teaching students how to code using Raspberry Pi and and Arduino
-  - Guiding student Battlebot team
-  - Helping students to solder and create circuits
 
 ### *Instructor/Coach*, [Philadelphia Rock Gym](https://www.philarockgym.com/) (2018-06 — Present)
 

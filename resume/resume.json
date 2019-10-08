@@ -27,6 +27,17 @@
   },
   "work": [
     {
+      "organization": "Franklin Institute",
+      "position": "PACTS Robotics Instructor",
+      "website": "http://fi.edu/",
+      "startDate": "2018-11",
+      "highlights":[
+        "Teaching students basics of coding, engineering and problem solving.",
+        "Guiding student Battlebot team",
+        "Organizing different student projects including raspberry pi, arduino, soldering and circuit design."
+      ]
+    },
+    {
       "company": "Trilogy Education Services",
       "website": "https://www.trilogyed.com/",
       "position": "Teaching Assistant",
@@ -90,18 +101,6 @@
     }
   ],
   "volunteer": [
-    {
-      "flavor": "volunteer",
-      "organization": "Franklin Institute",
-      "position": "PACTS Robotics Instructor",
-      "website": "http://fi.edu/",
-      "startDate": "2018-11",
-      "highlights":[
-        "Teaching students how to code using Raspberry Pi and and Arduino",
-        "Guiding student Battlebot team",
-        "Helping students to solder and create circuits"
-      ]
-    },
     {
       "organization": "Philadelphia Rock Gym",
       "website": "https://www.philarockgym.com/",

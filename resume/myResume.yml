@@ -9,13 +9,23 @@ contact:
   website: 'http://Buzz627.github.io'
 meta:
   format: FRESH@^1.0.0-beta
-  modified: '2019-07-26T15:22:07.858Z'
+  modified: '2019-10-08T15:33:31.443Z'
 location:
   city: Philadelphia
   region: Pennsylvania
   country: US
 employment:
   history:
+    -
+      position: 'PACTS Robotics Instructor'
+      current: true
+      start: 2018-11
+      url: 'http://fi.edu/'
+      keywords: []
+      highlights:
+        - 'Teaching students basics of coding, engineering and problem solving.'
+        - 'Guiding student Battlebot team'
+        - 'Organizing different student projects including raspberry pi, arduino, soldering and circuit design.'
     -
       position: 'Teaching Assistant'
       employer: 'Trilogy Education Services'
@@ -97,16 +107,6 @@ education:
       studyType: 'High School Diploma'
 service:
   history:
-    -
-      type: volunteer
-      position: 'PACTS Robotics Instructor'
-      organization: 'Franklin Institute'
-      start: 2018-11
-      url: 'http://fi.edu/'
-      highlights:
-        - 'Teaching students how to code using Raspberry Pi and and Arduino'
-        - 'Guiding student Battlebot team'
-        - 'Helping students to solder and create circuits'
     -
       type: volunteer
       position: Instructor/Coach
