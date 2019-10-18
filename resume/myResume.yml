@@ -9,7 +9,7 @@ contact:
   website: 'http://Buzz627.github.io'
 meta:
   format: FRESH@^1.0.0-beta
-  modified: '2019-10-18T17:33:13.681Z'
+  modified: '2019-10-18T17:37:21.679Z'
 location:
   city: Philadelphia
   region: Pennsylvania
@@ -21,7 +21,7 @@ employment:
       employer: 'Franklin Institute'
       current: true
       start: 2018-11
-      url: 'http://fi.edu/'
+      url: 'https://www.fi.edu/'
       keywords: []
       highlights:
         - 'Teaching students basics of coding, engineering and problem solving.'
