@@ -9,7 +9,7 @@ contact:
   website: 'http://Buzz627.github.io'
 meta:
   format: FRESH@^1.0.0-beta
-  modified: '2019-10-08T15:33:31.443Z'
+  modified: '2019-10-18T17:33:13.681Z'
 location:
   city: Philadelphia
   region: Pennsylvania
@@ -18,6 +18,7 @@ employment:
   history:
     -
       position: 'PACTS Robotics Instructor'
+      employer: 'Franklin Institute'
       current: true
       start: 2018-11
       url: 'http://fi.edu/'
