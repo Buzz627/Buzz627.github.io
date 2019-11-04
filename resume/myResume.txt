@@ -41,21 +41,18 @@ Software Developer, YellowDig (2017-05 — 2018-03)
 - Created tools for students to use for collaboration for class material
 - Managed custom command line tools for other developers to use
 - Utilized AWS to create, maintain and manage internal data
-- Technology Used: Node.js, AWS, PHP, MySQL
 
 Software Engineer, Connectify (2016-10 — 2017-03)
 
 - Created custom monitoring tools for company servers
 - Utilized different technologies to maintain company systems
 - Added auto decision making and trend information to server alerts
-- Technology Used: Python, InfluxDB, Consul
 
 Software Engineer, Point.io (2015-03 — 2016-10)
 
 - Created new software for company's main product
 - Managed projects to work within other applications
 - Created custom tools for users to interact with products
-- Technology Used: Node.js, Backend Java, Blockly, Scala
 
 
 
@@ -82,10 +79,7 @@ Philadelphia Rock Gym (2018-06 — Present)
 - Teaching kids and adults safety procedures and basic climbing skill
 - Leading classes on climbing style and technique
 
-Philly Codefest (2017-02)
-
-
-Philly Codefest (2018-04)
+Philly Codefest (2017-02 — 2019-05)
 
 
 
@@ -109,6 +103,6 @@ VIDEO GAMES: PS4 Nintendo Switch
 
 ATTENDING HACK-A-THONS: Hacking Hackathon 
 
-GITHUB: GitHub git 
+GITHUB: GitHub Git 
 
 

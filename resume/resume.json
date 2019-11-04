@@ -35,7 +35,8 @@
         "Teaching students basics of coding, engineering and problem solving.",
         "Guiding student Battlebot team",
         "Organizing different student projects including raspberry pi, arduino, soldering and circuit design."
-      ]
+      ],
+      "keywords":["Robotics", "Engineer", "Teaching"]
     },
     {
       "company": "Trilogy Education Services",
@@ -46,7 +47,8 @@
       "highlights": [
         "Helping students learn the basics of coding and logic",
         "Guiding students with coding projects and understanding concepts"
-      ]
+      ],
+      "keywords":["Web Development", "Git", "Teaching"]
     },
     {
       "company": "DICE at Jefferson",
@@ -70,9 +72,9 @@
       "highlights": [
         "Created tools for students to use for collaboration for class material",
         "Managed custom command line tools for other developers to use",
-        "Utilized AWS to create, maintain and manage internal data",
-        "Technology Used: Node.js, AWS, PHP, MySQL"
-      ]
+        "Utilized AWS to create, maintain and manage internal data"
+      ],
+      "keywords": ["Node.js", "AWS", "PHP", "MySQL"]
     },
     {
       "company": "Connectify",
@@ -83,9 +85,9 @@
       "highlights": [
         "Created custom monitoring tools for company servers",
         "Utilized different technologies to maintain company systems",
-        "Added auto decision making and trend information to server alerts",
-        "Technology Used: Python, InfluxDB, Consul"
-      ]
+        "Added auto decision making and trend information to server alerts"
+      ],
+      "keywords": ["Python", "InfluxDB", "Consul"]
     },
     {
       "company": "Point.io",
@@ -95,9 +97,9 @@
       "highlights": [
         "Created new software for company's main product",
         "Managed projects to work within other applications",
-        "Created custom tools for users to interact with products",
-        "Technology Used: Node.js, Backend Java, Blockly, Scala"
-      ]
+        "Created custom tools for users to interact with products"
+      ],
+      "keywords": ["Node.js", "Backend Java", "Blockly", "Scala"]
     }
   ],
   "volunteer": [
@@ -117,14 +119,7 @@
       "position": "Activity Organizer",
       "website": "http://phillycodefest.com/",
       "startDate": "2017-02-18",
-      "endDate": "2017-02-19"
-    },
-    {
-      "organization": "Philly Codefest",
-      "position": "Activity Organizer",
-      "website": "http://phillycodefest.com/",
-      "startDate": "2018-04-21",
-      "endDate": "2018-04-22"
+      "endDate": "2019-05-04"
     }
   ],
   "education": [
@@ -271,7 +266,7 @@
       "name": "GitHub",
       "keywords": [
         "GitHub",
-        "git"
+        "Git"
       ]
     }
   ]

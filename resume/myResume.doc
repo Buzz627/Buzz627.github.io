@@ -1257,21 +1257,6 @@
       </w:pPr>
       <w:r><w:rPr></w:rPr><w:t>Utilized AWS to create, maintain and manage internal data</w:t></w:r>
     </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Technology Used: Node.js, AWS, PHP, MySQL</w:t></w:r>
-    </w:p>
 
   </wx:sub-section>
 
@@ -1359,21 +1344,6 @@
       </w:pPr>
       <w:r><w:rPr></w:rPr><w:t>Added auto decision making and trend information to server alerts</w:t></w:r>
     </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Technology Used: Python, InfluxDB, Consul</w:t></w:r>
-    </w:p>
 
   </wx:sub-section>
 
@@ -1457,21 +1427,6 @@
         </w:rPr>
       </w:pPr>
       <w:r><w:rPr></w:rPr><w:t>Created custom tools for users to interact with products</w:t></w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Technology Used: Node.js, Backend Java, Blockly, Scala</w:t></w:r>
     </w:p>
 
   </wx:sub-section>
@@ -1771,49 +1726,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>Feb 2017</w:t>
-      </w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      
-    </w:p>
-
-
-  </wx:sub-section>
-
-
-  <wx:sub-section>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
-      <w:pPr>
-        <w:pStyle w:val="Heading2"/>
-        <w:tabs>
-          <w:tab w:val="right" w:pos="9360"/>
-        </w:tabs>
-      </w:pPr>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Activity Organizer, </w:t>
-      </w:r>
-      <w:hlink w:dest="http://phillycodefest.com/">
-        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-          <w:rPr>
-            <w:rStyle w:val="Hyperlink"/>
-          </w:rPr>
-          <w:t>Philly Codefest</w:t>
-        </w:r>
-      </w:hlink>
-      <w:r wsp:rsidR="00EA0B64">
-        <w:tab/>
-      </w:r>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:rPr>
-          <w:rStyle w:val="FromTo"/>
-        </w:rPr>
-        <w:t>Apr 2018</w:t>
+        <w:t>Feb 2017 — May 2019</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -2020,7 +1933,7 @@
         <w:tab/>
       </w:r>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>GitHub, git</w:t>
+        <w:t>GitHub, Git</w:t>
       </w:r>
     </w:p>
 

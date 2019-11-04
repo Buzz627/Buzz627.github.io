@@ -9,7 +9,7 @@ contact:
   website: 'http://Buzz627.github.io'
 meta:
   format: FRESH@^1.0.0-beta
-  modified: '2019-10-30T14:04:35.805Z'
+  modified: '2019-11-04T15:00:56.160Z'
 location:
   city: Philadelphia
   region: Pennsylvania
@@ -59,7 +59,6 @@ employment:
         - 'Created tools for students to use for collaboration for class material'
         - 'Managed custom command line tools for other developers to use'
         - 'Utilized AWS to create, maintain and manage internal data'
-        - 'Technology Used: Node.js, AWS, PHP, MySQL'
     -
       position: 'Software Engineer'
       employer: Connectify
@@ -71,7 +70,6 @@ employment:
         - 'Created custom monitoring tools for company servers'
         - 'Utilized different technologies to maintain company systems'
         - 'Added auto decision making and trend information to server alerts'
-        - 'Technology Used: Python, InfluxDB, Consul'
     -
       position: 'Software Engineer'
       employer: Point.io
@@ -82,7 +80,6 @@ employment:
         - 'Created new software for company''s main product'
         - 'Managed projects to work within other applications'
         - 'Created custom tools for users to interact with products'
-        - 'Technology Used: Node.js, Backend Java, Blockly, Scala'
 education:
   level: ""
   history:
@@ -123,14 +120,7 @@ service:
       position: 'Activity Organizer'
       organization: 'Philly Codefest'
       start: '2017-02-18'
-      end: '2017-02-19'
-      url: 'http://phillycodefest.com/'
-    -
-      type: volunteer
-      position: 'Activity Organizer'
-      organization: 'Philly Codefest'
-      start: '2018-04-21'
-      end: '2018-04-22'
+      end: '2019-05-04'
       url: 'http://phillycodefest.com/'
 skills:
   sets:
@@ -219,7 +209,7 @@ interests:
     name: GitHub
     keywords:
       - GitHub
-      - git
+      - Git
 languages:
   -
     language: English
