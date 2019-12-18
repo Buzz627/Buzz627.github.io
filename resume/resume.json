@@ -15,7 +15,7 @@
     "profiles": [
       {
         "network": "StackOverflow",
-        "username": "Buzz",
+        "username": "https://stackoverflow.com/users/3586325/buzz",
         "url": "https://stackoverflow.com/users/3586325/buzz"
       },
       {

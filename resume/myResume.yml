@@ -9,7 +9,7 @@ contact:
   website: 'http://Buzz627.github.io'
 meta:
   format: FRESH@^1.0.0-beta
-  modified: '2019-11-04T15:00:56.160Z'
+  modified: '2019-12-18T19:13:34.198Z'
 location:
   city: Philadelphia
   region: Pennsylvania
@@ -173,7 +173,7 @@ social:
     label: StackOverflow
     network: StackOverflow
     url: 'https://stackoverflow.com/users/3586325/buzz'
-    user: Buzz
+    user: 'https://stackoverflow.com/users/3586325/buzz'
   -
     label: GitHub
     network: GitHub
