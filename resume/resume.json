@@ -27,6 +27,15 @@
   },
   "work": [
     {
+      "company": "Comcast",
+      "position": "Software Engineer",
+      "website": "https://www.xfinity.com",
+      "startDate": "2020-03-02",
+      "highlights":[
+      ],
+      "keywords":["Software", "Engineer", "Backend"]
+    },
+    {
       "company": "The Franklin Institute",
       "position": "PACTS Robotics Instructor",
       "website": "https://www.fi.edu/",
