@@ -1,6 +1,6 @@
 name: 'Andrew "Buzz" Lakata'
 info:
-  label: Programmer
+  label: 'Software Engineer'
   image: ../assets/images/3CRVr.jpg
   brief: 'I am a backend developer. I love working with data and apis. No matter what the project is I am always happy to get down and dirty with the code.'
 contact:
@@ -9,13 +9,25 @@ contact:
   website: 'http://Buzz627.github.io'
 meta:
   format: FRESH@^1.0.0-beta
-  modified: '2019-12-18T19:13:34.198Z'
+  modified: '2022-08-31T13:39:25.719Z'
 location:
   city: Philadelphia
   region: Pennsylvania
   country: US
 employment:
   history:
+    -
+      position: 'Software Engineer II'
+      employer: Comcast
+      current: true
+      start: '2020-03-02'
+      url: 'https://www.xfinity.com'
+      keywords: []
+      highlights:
+        - 'Preparing data for sporting events such as 2021 Summer Olympics and 2022 Winter Olympics.'
+        - 'Using AWS to create messaging systems to determine when data changes involving the scope of subscriber Data'
+        - 'Creating new SpringBoot service to process customer watch history and data, processing about 1 million requests per hour.'
+        - 'Working as a team to maintain many different production level applications.'
     -
       position: 'PACTS Robotics Instructor'
       employer: 'The Franklin Institute'
@@ -198,13 +210,8 @@ interests:
   -
     name: 'Video Games'
     keywords:
-      - PS4
+      - PS5
       - 'Nintendo Switch'
-  -
-    name: 'Attending Hack-a-Thons'
-    keywords:
-      - Hacking
-      - Hackathon
   -
     name: GitHub
     keywords:

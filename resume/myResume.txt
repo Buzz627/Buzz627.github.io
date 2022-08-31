@@ -19,6 +19,13 @@ SKILLS -------------------------------------------------------------------------
 
 EMPLOYMENT ---------------------------------------------------------------------
 
+Software Engineer II, Comcast (2020-03 — Present)
+
+- Preparing data for sporting events such as 2021 Summer Olympics and 2022 Winter Olympics.
+- Using AWS to create messaging systems to determine when data changes involving the scope of subscriber Data
+- Creating new SpringBoot service to process customer watch history and data, processing about 1 million requests per hour.
+- Working as a team to maintain many different production level applications.
+
 PACTS Robotics Instructor, The Franklin Institute (2018-11 — Present)
 
 - Teaching students basics of coding, engineering and problem solving.
@@ -99,9 +106,7 @@ COOKING
 
 RASPBERRY PI: Hardware Hacking Linux 
 
-VIDEO GAMES: PS4 Nintendo Switch 
-
-ATTENDING HACK-A-THONS: Hacking Hackathon 
+VIDEO GAMES: PS5 Nintendo Switch 
 
 GITHUB: GitHub Git 
 
